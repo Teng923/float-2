@@ -1,0 +1,11 @@
+.aside{
+  width: 150px;
+  height: 400px;
+  background: red;
+  float: right;
+}
+.main{
+  margin-right: 160px;
+  background: blue;
+  height: 500px;
+}
